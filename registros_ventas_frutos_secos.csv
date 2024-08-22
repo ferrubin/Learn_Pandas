@@ -1,0 +1,301 @@
+Nombre Cliente,Tipo Producto,Precio (€/kg),Cantidad Vendida (kg),Fecha Venta,Provincia Cliente
+Mas y Mas,Almendras,4.54,1212,2023-03-29,Cádiz
+Mercadona,Nueces,5.84,591,2023-12-05,Sevilla
+Alcampo,Cacahuetes,2.69,2831,2023-07-26,Madrid
+Mas y Mas,Pistachos,6.7,516,2023-10-07,Alicante
+Lidl,Nueces,6.14,1283,2023-05-12,Barcelona
+Carrefour,Almendras,1.92,2741,2023-03-24,Cádiz
+Lidl,Pistachos,3.88,2898,2023-03-08,Sevilla
+Alcampo,Almendras,3.76,2464,2023-03-01,Madrid
+Dia,Almendras,6.46,641,2023-09-26,Alicante
+Consum,Pistachos,8.7,646,2023-11-23,Cádiz
+Caprabo,Cacahuetes,7.4,1294,2023-04-23,Sevilla
+Consum,Pistachos,2.67,2640,2023-04-21,Alicante
+Aldi,Cacahuetes,11.57,1650,2023-12-08,Sevilla
+Mas y Mas,Almendras,5.09,1899,2023-08-30,Madrid
+Consum,Nueces,6.78,2238,2023-09-16,Sevilla
+Lidl,Nueces,8.1,2295,2023-05-07,Madrid
+Alcampo,Nueces,10.53,2722,2023-01-16,Alicante
+Aldi,Nueces,4.27,1363,2023-03-20,Sevilla
+Lidl,Cacahuetes,3.98,2747,2023-11-09,Valencia
+Consum,Almendras,8.48,2078,2023-02-01,Valencia
+Mercadona,Cacahuetes,1.45,2715,2023-11-15,Sevilla
+Dia,Almendras,9.31,2711,2023-07-28,Valencia
+Dia,Pistachos,4.2,306,2023-10-27,Sevilla
+Caprabo,Cacahuetes,6.24,1626,2023-02-05,Valencia
+Carrefour,Almendras,3.94,1908,2023-09-06,Madrid
+Carrefour,Nueces,8.85,1295,2023-06-02,Valencia
+Eroski,Pistachos,2.46,1607,2023-02-05,Sevilla
+Caprabo,Pistachos,8.55,2872,2023-06-01,Alicante
+Carrefour,Pistachos,4.34,977,2023-07-06,Madrid
+Alcampo,Nueces,6.83,750,2023-01-11,Cádiz
+Dia,Cacahuetes,5.02,1328,2023-06-01,Cádiz
+Family Cash,Almendras,4.7,1254,2023-05-07,Barcelona
+Alcampo,Cacahuetes,3.82,2723,2023-09-23,Barcelona
+Mercadona,Pistachos,2.03,103,2023-05-28,Madrid
+Family Cash,Cacahuetes,8.57,1263,2023-11-27,Valencia
+Alcampo,Cacahuetes,1.63,603,2023-08-28,Alicante
+Eroski,Almendras,1.1,2287,2023-09-10,Barcelona
+Mercadona,Pistachos,9.79,1706,2023-11-30,Madrid
+Dia,Pistachos,6.26,148,2023-02-05,Alicante
+Dia,Nueces,6.27,1989,2023-09-19,Valencia
+Family Cash,Pistachos,5.88,1393,2023-02-08,Alicante
+Carrefour,Almendras,5.48,2677,2023-02-14,Madrid
+Family Cash,Pistachos,5.1,1669,2023-10-10,Barcelona
+Eroski,Almendras,6.43,1246,2023-12-23,Alicante
+Consum,Cacahuetes,2.22,2875,2023-01-20,Sevilla
+Consum,Cacahuetes,5.25,1864,2023-02-22,Valencia
+Family Cash,Almendras,6.04,1631,2023-07-13,Barcelona
+Aldi,Pistachos,8.6,2983,2023-08-11,Valencia
+Caprabo,Almendras,5.75,1493,2023-04-08,Sevilla
+Consum,Pistachos,5.74,2267,2023-11-23,Cádiz
+Lidl,Almendras,5.87,2626,2023-07-03,Alicante
+Carrefour,Nueces,1.77,974,2023-09-18,Alicante
+Family Cash,Cacahuetes,1.71,1028,2023-05-05,Sevilla
+Aldi,Nueces,4.64,1863,2023-05-23,Barcelona
+Lidl,Nueces,8.18,1490,2023-01-17,Madrid
+Eroski,Pistachos,7.06,2227,2023-12-23,Alicante
+Carrefour,Pistachos,10.4,1119,2023-05-27,Valencia
+Lidl,Almendras,2.47,2904,2023-11-22,Barcelona
+Eroski,Nueces,4.3,2095,2023-06-28,Barcelona
+Alcampo,Cacahuetes,1.34,2623,2023-05-07,Cádiz
+Carrefour,Pistachos,5.16,2842,2023-04-02,Sevilla
+Lidl,Cacahuetes,7.05,1959,2023-05-08,Valencia
+Alcampo,Pistachos,5.97,2986,2023-02-27,Cádiz
+Family Cash,Nueces,4.72,1192,2023-06-14,Alicante
+Dia,Nueces,4.87,1416,2023-10-10,Madrid
+Mas y Mas,Cacahuetes,2.76,1585,2023-10-20,Madrid
+Family Cash,Cacahuetes,8.54,980,2023-09-18,Valencia
+Aldi,Cacahuetes,3.82,2748,2023-08-25,Barcelona
+Consum,Pistachos,7.1,2862,2023-03-07,Sevilla
+Caprabo,Cacahuetes,4.92,1762,2023-06-25,Cádiz
+Aldi,Nueces,5.06,1288,2023-07-16,Sevilla
+Aldi,Cacahuetes,2.05,2243,2023-08-14,Alicante
+Dia,Cacahuetes,8.33,1929,2023-01-22,Barcelona
+Consum,Nueces,1.09,1407,2023-03-27,Barcelona
+Mercadona,Nueces,6.33,2032,2023-06-21,Sevilla
+Family Cash,Cacahuetes,11.25,766,2023-06-06,Barcelona
+Consum,Almendras,4.77,1929,2023-06-25,Sevilla
+Caprabo,Cacahuetes,2.73,974,2023-01-09,Alicante
+Consum,Pistachos,10.1,1138,2023-08-29,Cádiz
+Alcampo,Nueces,3.74,2749,2023-12-06,Madrid
+Caprabo,Nueces,6.91,2278,2023-02-09,Sevilla
+Aldi,Cacahuetes,6.19,1885,2023-02-04,Barcelona
+Consum,Cacahuetes,7.12,2635,2023-11-13,Barcelona
+Consum,Almendras,5.17,1080,2023-09-28,Sevilla
+Eroski,Cacahuetes,2.99,316,2023-09-08,Cádiz
+Mas y Mas,Nueces,5.65,1935,2023-02-08,Sevilla
+Consum,Cacahuetes,5.06,793,2023-08-18,Barcelona
+Carrefour,Nueces,2.62,614,2023-02-21,Alicante
+Carrefour,Almendras,7.61,2557,2023-07-26,Cádiz
+Caprabo,Almendras,8.85,272,2023-11-26,Barcelona
+Caprabo,Almendras,8.6,2837,2023-02-04,Sevilla
+Alcampo,Nueces,6.86,211,2024-01-02,Valencia
+Mas y Mas,Pistachos,10.44,712,2023-08-18,Cádiz
+Family Cash,Almendras,2.86,1177,2023-07-06,Madrid
+Caprabo,Nueces,10.73,2856,2023-03-29,Valencia
+Family Cash,Cacahuetes,8.1,518,2023-12-21,Barcelona
+Aldi,Cacahuetes,3.14,1229,2023-07-29,Valencia
+Eroski,Pistachos,6.39,645,2023-03-28,Sevilla
+Mas y Mas,Almendras,1.93,1846,2023-08-11,Cádiz
+Eroski,Nueces,3.54,1556,2023-04-03,Madrid
+Carrefour,Cacahuetes,7.61,1688,2023-08-31,Cádiz
+Alcampo,Cacahuetes,5.85,654,2023-06-02,Sevilla
+Consum,Cacahuetes,8.03,2699,2023-07-07,Barcelona
+Mercadona,Almendras,9.47,1670,2023-03-30,Cádiz
+Mercadona,Cacahuetes,6.32,1359,2023-07-19,Barcelona
+Dia,Nueces,3.3,986,2023-12-30,Madrid
+Dia,Almendras,4.81,261,2023-01-26,Alicante
+Carrefour,Cacahuetes,2.57,1838,2023-04-01,Sevilla
+Dia,Cacahuetes,1.7,1894,2023-03-16,Cádiz
+Consum,Pistachos,1.8,654,2023-08-24,Barcelona
+Mas y Mas,Nueces,8.33,637,2023-03-24,Sevilla
+Aldi,Almendras,7.66,2688,2023-10-28,Valencia
+Consum,Almendras,1.77,2610,2023-09-01,Valencia
+Mas y Mas,Pistachos,11.45,438,2023-10-24,Valencia
+Mercadona,Pistachos,7.8,347,2023-04-10,Barcelona
+Lidl,Almendras,7.7,2291,2023-12-22,Sevilla
+Lidl,Almendras,5.49,2945,2023-03-31,Barcelona
+Eroski,Pistachos,3.76,1743,2023-06-01,Valencia
+Mas y Mas,Cacahuetes,6.63,2517,2023-05-05,Sevilla
+Alcampo,Pistachos,6.27,1367,2023-03-08,Alicante
+Alcampo,Pistachos,1.47,2291,2023-07-25,Sevilla
+Caprabo,Pistachos,10.76,1121,2023-02-25,Alicante
+Consum,Nueces,3.53,2903,2023-06-14,Madrid
+Dia,Cacahuetes,9.24,310,2023-10-06,Madrid
+Aldi,Almendras,9.62,1521,2023-07-07,Valencia
+Eroski,Pistachos,6.6,1780,2023-04-25,Sevilla
+Lidl,Nueces,4.07,2128,2023-08-08,Madrid
+Mercadona,Almendras,6.53,2479,2023-12-06,Cádiz
+Consum,Pistachos,1.5,2626,2023-02-20,Sevilla
+Lidl,Pistachos,3.97,2471,2023-10-13,Barcelona
+Alcampo,Cacahuetes,1.35,1054,2023-06-22,Valencia
+Caprabo,Cacahuetes,7.03,1697,2023-09-02,Sevilla
+Dia,Pistachos,1.87,527,2023-11-05,Cádiz
+Family Cash,Almendras,5.47,137,2023-10-19,Alicante
+Mercadona,Cacahuetes,2.39,190,2023-05-08,Barcelona
+Dia,Cacahuetes,9.46,2880,2023-05-30,Barcelona
+Carrefour,Pistachos,7.11,100,2023-08-08,Sevilla
+Caprabo,Pistachos,10.67,1657,2023-10-02,Valencia
+Mercadona,Cacahuetes,5.59,1483,2023-07-07,Madrid
+Lidl,Cacahuetes,6.83,527,2023-06-18,Valencia
+Mas y Mas,Cacahuetes,10.02,1082,2023-07-01,Valencia
+Consum,Cacahuetes,1.47,2194,2023-12-06,Madrid
+Lidl,Almendras,7.86,1750,2023-05-13,Alicante
+Caprabo,Cacahuetes,4.91,823,2023-03-07,Alicante
+Aldi,Almendras,1.35,2760,2023-09-25,Madrid
+Carrefour,Cacahuetes,7.04,877,2023-03-07,Sevilla
+Mercadona,Almendras,9.13,1132,2023-10-22,Alicante
+Family Cash,Pistachos,10.99,277,2023-03-06,Madrid
+Family Cash,Almendras,2.78,2150,2023-09-01,Valencia
+Consum,Almendras,4.08,937,2023-07-02,Alicante
+Aldi,Pistachos,6.92,977,2023-02-08,Barcelona
+Alcampo,Cacahuetes,9.86,601,2023-11-10,Barcelona
+Family Cash,Almendras,2.57,1326,2023-09-15,Madrid
+Alcampo,Pistachos,8.54,2607,2023-08-20,Cádiz
+Aldi,Cacahuetes,10.48,1081,2023-08-16,Barcelona
+Mas y Mas,Nueces,3.51,2897,2023-07-11,Cádiz
+Lidl,Almendras,5.01,1275,2023-05-31,Madrid
+Dia,Pistachos,9.48,115,2023-09-20,Barcelona
+Eroski,Almendras,1.18,635,2023-05-27,Madrid
+Dia,Cacahuetes,6.39,2766,2023-04-05,Alicante
+Family Cash,Cacahuetes,8.48,2048,2023-05-07,Alicante
+Aldi,Cacahuetes,8.1,2298,2023-09-23,Valencia
+Eroski,Almendras,2.62,1794,2023-05-05,Cádiz
+Lidl,Nueces,6.47,2689,2023-04-12,Cádiz
+Eroski,Cacahuetes,7.2,1862,2023-10-11,Cádiz
+Dia,Cacahuetes,3.79,2459,2023-02-07,Madrid
+Aldi,Pistachos,3.31,1280,2023-06-20,Valencia
+Aldi,Almendras,8.98,2579,2023-06-30,Alicante
+Mercadona,Nueces,7.86,426,2023-02-14,Barcelona
+Lidl,Nueces,5.78,2974,2023-10-01,Cádiz
+Consum,Cacahuetes,10.61,1829,2023-12-06,Barcelona
+Caprabo,Almendras,5.31,1467,2023-12-28,Alicante
+Mercadona,Pistachos,4.72,1846,2023-05-02,Madrid
+Lidl,Pistachos,4.69,1864,2023-02-27,Alicante
+Carrefour,Almendras,8.12,1615,2023-07-23,Valencia
+Mercadona,Cacahuetes,8.54,110,2023-10-31,Barcelona
+Aldi,Cacahuetes,6.63,2889,2023-02-15,Cádiz
+Alcampo,Cacahuetes,11.52,1476,2023-08-14,Valencia
+Family Cash,Nueces,7.68,2344,2023-10-10,Valencia
+Lidl,Pistachos,6.37,390,2023-08-26,Cádiz
+Mercadona,Nueces,10.44,2244,2023-07-22,Alicante
+Mercadona,Nueces,5.43,2429,2023-10-28,Alicante
+Mas y Mas,Cacahuetes,2.64,2513,2023-11-03,Barcelona
+Mas y Mas,Pistachos,2.33,2199,2023-01-28,Sevilla
+Dia,Nueces,2.35,2075,2023-06-12,Alicante
+Alcampo,Nueces,2.09,1814,2023-01-16,Madrid
+Consum,Nueces,7.59,118,2023-02-26,Valencia
+Eroski,Pistachos,6.99,2027,2023-03-13,Valencia
+Caprabo,Cacahuetes,4.14,690,2023-11-08,Valencia
+Dia,Cacahuetes,9.56,2427,2023-11-15,Alicante
+Mercadona,Cacahuetes,7.95,1382,2023-07-03,Alicante
+Mas y Mas,Cacahuetes,2.69,1778,2023-12-06,Barcelona
+Lidl,Pistachos,10.24,2448,2023-04-29,Cádiz
+Lidl,Pistachos,2.55,953,2023-10-22,Barcelona
+Mas y Mas,Cacahuetes,2.1,2048,2023-12-18,Valencia
+Dia,Cacahuetes,5.18,1085,2023-11-03,Valencia
+Aldi,Almendras,7.24,701,2023-05-24,Cádiz
+Consum,Nueces,5.06,2909,2023-03-10,Alicante
+Eroski,Nueces,5.92,2023,2023-01-11,Sevilla
+Dia,Almendras,1.05,2926,2023-11-29,Barcelona
+Dia,Almendras,9.08,2095,2023-12-11,Cádiz
+Mercadona,Cacahuetes,5.46,478,2023-09-19,Cádiz
+Mas y Mas,Pistachos,0.99,2507,2023-03-07,Barcelona
+Lidl,Cacahuetes,9.58,920,2023-10-30,Valencia
+Caprabo,Nueces,4.49,2675,2023-04-28,Madrid
+Dia,Almendras,8.18,1453,2023-10-05,Alicante
+Mas y Mas,Pistachos,0.97,316,2023-01-26,Cádiz
+Mas y Mas,Almendras,3.57,1656,2023-11-19,Alicante
+Family Cash,Nueces,10.94,1002,2023-08-25,Cádiz
+Family Cash,Cacahuetes,6.01,2737,2023-08-02,Sevilla
+Caprabo,Pistachos,2.15,2540,2023-12-21,Cádiz
+Mas y Mas,Cacahuetes,2.44,1060,2023-05-06,Alicante
+Alcampo,Almendras,6.29,170,2023-04-10,Alicante
+Aldi,Pistachos,5.32,1105,2023-09-21,Barcelona
+Alcampo,Nueces,9.35,394,2023-07-29,Barcelona
+Eroski,Cacahuetes,7.9,1439,2023-03-03,Valencia
+Aldi,Almendras,8.88,1772,2023-08-27,Barcelona
+Mercadona,Almendras,3.03,2180,2023-05-17,Barcelona
+Mercadona,Nueces,4.34,2499,2023-10-17,Madrid
+Mercadona,Cacahuetes,2.04,1751,2023-07-30,Valencia
+Mas y Mas,Almendras,5.0,774,2023-02-12,Valencia
+Mercadona,Pistachos,1.59,1242,2023-02-18,Madrid
+Eroski,Cacahuetes,3.65,2358,2023-12-26,Alicante
+Dia,Pistachos,3.78,1452,2023-10-06,Madrid
+Carrefour,Cacahuetes,3.65,2753,2023-10-11,Cádiz
+Aldi,Nueces,7.34,2309,2023-03-14,Alicante
+Caprabo,Almendras,5.17,2348,2023-12-31,Barcelona
+Family Cash,Cacahuetes,6.52,1020,2023-06-15,Valencia
+Consum,Cacahuetes,3.06,1150,2023-07-18,Madrid
+Dia,Cacahuetes,7.67,1957,2023-03-28,Cádiz
+Carrefour,Cacahuetes,6.24,2299,2023-11-28,Sevilla
+Caprabo,Cacahuetes,2.93,605,2023-10-11,Barcelona
+Lidl,Pistachos,9.67,1062,2023-10-08,Cádiz
+Dia,Cacahuetes,1.53,2127,2023-10-19,Valencia
+Lidl,Nueces,3.19,723,2023-09-25,Valencia
+Mercadona,Almendras,7.16,2839,2023-06-08,Alicante
+Caprabo,Cacahuetes,9.0,2528,2023-02-06,Sevilla
+Caprabo,Cacahuetes,8.35,746,2023-07-09,Barcelona
+Mas y Mas,Almendras,3.45,1866,2023-03-29,Cádiz
+Alcampo,Cacahuetes,5.28,314,2023-08-02,Alicante
+Carrefour,Cacahuetes,3.62,995,2023-07-22,Madrid
+Dia,Cacahuetes,3.75,1667,2023-03-29,Sevilla
+Mas y Mas,Pistachos,7.3,266,2023-08-25,Madrid
+Family Cash,Pistachos,5.23,424,2023-05-12,Sevilla
+Caprabo,Cacahuetes,6.6,236,2023-04-22,Barcelona
+Caprabo,Almendras,7.17,1664,2023-04-06,Barcelona
+Lidl,Pistachos,7.42,308,2023-11-28,Cádiz
+Family Cash,Almendras,2.81,2102,2023-08-04,Barcelona
+Mas y Mas,Cacahuetes,4.33,409,2023-02-28,Madrid
+Lidl,Nueces,6.17,1101,2023-03-25,Alicante
+Mercadona,Pistachos,6.54,704,2023-03-06,Barcelona
+Caprabo,Nueces,4.76,2755,2023-04-13,Madrid
+Alcampo,Pistachos,2.66,590,2023-12-26,Sevilla
+Aldi,Cacahuetes,2.7,2272,2023-12-24,Barcelona
+Mercadona,Almendras,4.99,208,2023-06-30,Alicante
+Carrefour,Almendras,8.51,2865,2023-06-18,Valencia
+Lidl,Nueces,2.13,1228,2023-09-21,Sevilla
+Mercadona,Nueces,5.51,2523,2023-03-08,Cádiz
+Mas y Mas,Nueces,6.78,2424,2023-04-07,Alicante
+Mas y Mas,Almendras,1.64,2516,2023-07-03,Alicante
+Aldi,Nueces,6.95,1094,2023-05-30,Alicante
+Carrefour,Nueces,3.5,1024,2023-08-06,Barcelona
+Alcampo,Nueces,9.73,176,2023-03-01,Sevilla
+Alcampo,Nueces,9.66,1338,2023-09-25,Sevilla
+Eroski,Almendras,7.78,1291,2023-11-17,Alicante
+Dia,Cacahuetes,5.22,1020,2023-06-21,Sevilla
+Caprabo,Cacahuetes,3.85,899,2023-05-18,Barcelona
+Dia,Almendras,4.03,2420,2023-07-05,Madrid
+Mercadona,Nueces,5.26,1229,2023-09-02,Valencia
+Caprabo,Almendras,4.19,1984,2023-01-20,Barcelona
+Carrefour,Cacahuetes,5.19,2475,2023-07-12,Sevilla
+Aldi,Nueces,5.18,497,2023-01-07,Barcelona
+Eroski,Cacahuetes,6.16,1887,2023-12-20,Sevilla
+Dia,Almendras,2.37,2031,2023-10-19,Madrid
+Alcampo,Cacahuetes,6.32,2628,2023-12-25,Madrid
+Eroski,Almendras,6.58,563,2023-06-07,Sevilla
+Mas y Mas,Cacahuetes,3.59,1841,2023-01-21,Barcelona
+Family Cash,Nueces,1.74,2767,2023-04-14,Madrid
+Mercadona,Pistachos,1.5,394,2024-01-02,Alicante
+Mercadona,Nueces,4.37,2620,2023-05-02,Cádiz
+Mercadona,Cacahuetes,4.5,1021,2023-02-15,Cádiz
+Alcampo,Almendras,5.49,209,2023-05-19,Cádiz
+Lidl,Cacahuetes,3.0,2236,2023-02-21,Alicante
+Mercadona,Almendras,9.57,2400,2023-06-01,Valencia
+Aldi,Cacahuetes,4.62,1403,2023-03-13,Valencia
+Mercadona,Pistachos,3.51,941,2023-10-05,Madrid
+Eroski,Pistachos,3.42,2093,2023-11-18,Cádiz
+Dia,Pistachos,3.72,2953,2023-01-03,Barcelona
+Caprabo,Nueces,8.1,1966,2023-01-06,Cádiz
+Lidl,Nueces,1.3,2262,2023-03-18,Cádiz
+Family Cash,Cacahuetes,1.09,339,2023-01-25,Cádiz
+Alcampo,Nueces,5.76,2123,2023-11-13,Alicante
+Carrefour,Cacahuetes,5.58,483,2023-04-08,Cádiz
+Family Cash,Almendras,1.81,1982,2023-01-27,Barcelona
+Caprabo,Cacahuetes,8.86,171,2023-02-26,Madrid
+Caprabo,Nueces,9.75,2367,2023-09-15,Sevilla
+Alcampo,Pistachos,3.82,1951,2023-09-19,Madrid
+Mas y Mas,Pistachos,5.22,2811,2023-05-04,Valencia
+Mas y Mas,Cacahuetes,8.07,473,2023-01-18,Madrid
+Aldi,Nueces,5.8,1081,2023-03-23,Sevilla
